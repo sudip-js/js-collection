@@ -1,5 +1,5 @@
 import React from 'react'
-import ProfileImage from "../../assets/images/my-profile-image.jpg"
+import ProfileImage from "../../assets/images/logo.svg"
 
 const Testimonial = () => {
     return (
